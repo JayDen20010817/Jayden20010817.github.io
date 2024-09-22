@@ -12,7 +12,7 @@ title                    : "Jayden / Personal homepage"
 title_separator          : "-"
 name                     : &name "Jayden"
 description              : &description "what can i say？"
-url                      : Jayden20010817.github.io
+url                      : https://Jayden20010817.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JayDen20010817/Jayden20010817.github.io"
 
@@ -21,14 +21,14 @@ repository               : "JayDen20010817/Jayden20010817.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "people_image.png"
   name             : "Jayden(Xingjie Zhuang)"
   pronouns         : # example: "she/her"  
-  bio              : "Concise but not simple,Small but beautiful work"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Concise but not simple,Small but beautiful work"
+  location         : "China"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jayden20010817@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

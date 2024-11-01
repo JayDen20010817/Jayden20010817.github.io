@@ -6,14 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-##📚 About Me
+
+## 📚 About Me
 
 My research interests are in Natural Language Processing, Machine Learning, and Artificial Intelligence. My current research focuses on multimodality, sarcasm detection, and sentiment inference with large language models.
 
 🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com
 
 
-##📣 Our Recent Publications
+## 📣 Our Recent Publications
 ======
 🔥**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection**
 **Zhuang, Xingjie**, Fengling Zhou, and Zhixin Li

@@ -26,7 +26,7 @@ My current research is centered on the Sentiment Inference with Large Language M
    _**CIKM 2024**_ (**CCF-B类**, 数据挖掘国际顶级会议, **Oral**)
 
 ## 🎓 Educations
-* Guangxi Normal University (GXNU) <font color='red'> 09/2023 - 07/2026 </font>　 **Master** 
+* Guangxi Normal University (GXNU) <font color='red'> 09/2023 - 07/2026 </font>  **Master** 
 * Fujian Jiangxia University (FJJXU) <font color='red'> 09/2019 - 07/2023 </font>  **Bachelor** 
 
 

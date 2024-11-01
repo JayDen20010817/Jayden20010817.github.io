@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🤣👉Hello！ this is Jayden's research homepage👈"
+title: "🤣👉Hello！this is Jayden's research homepage👈"
 author_profile: true
 redirect_from: 
   - /about/

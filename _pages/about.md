@@ -9,7 +9,7 @@ redirect_from:
 
 ## 📚 About Me
 
-My current research is centered on the Sentiment Inference with Large Language Models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on.</br>
+My current research is centered on the Sentiment Inference with Large Language Models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on. </br>
 🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com
 
 ## 📣 News

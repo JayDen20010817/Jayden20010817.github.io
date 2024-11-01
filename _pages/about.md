@@ -17,6 +17,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 
 ## 📝 Recent Publications
+
 🔥**Multi-modal Sarcasm Detection via Dual Synergetic Perception Graph Convolutional Networks** </br>
   **Zhuang, Xingjie**, Zhixin Li </br>
   _**ICDM 2024**_ (**CCF-B类**, 数据挖掘国际顶级会议)

@@ -22,7 +22,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 ## 🎓 Educations
 
 * Guangxi Normal University (GXNU) 　<font color='red'> 09/2023 - 07/2026 </font>
-* Fujian Jiangxia University (FJJXU) 　<font color='red'> 09/2019 - 07/2023 </font>
+* Fujian Jiangxia University (FJJXU) 　<font color=FF0000> text </font>
 
 
 

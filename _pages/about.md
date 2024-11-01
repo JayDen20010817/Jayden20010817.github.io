@@ -9,17 +9,14 @@ redirect_from:
 
 ## 📚 About Me
 
-My current research is centered on the sentiment inference with large language models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on.
-
+My current research is centered on the Sentiment Inference with Large Language Models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on.</br>
 🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com
 
 
-## 📣 Our Recent Publications
+## 📣 Recent Publications
 
-🔥**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection**
-
-**Zhuang, Xingjie**, Fengling Zhou, and Zhixin Li
-
+🔥**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection**</br>
+**Zhuang, Xingjie**, Fengling Zhou, and Zhixin Li</br>
  **CIKM 2024**(**CCF-B类**,数据挖掘国际顶级会议,**Oral**)
 
 

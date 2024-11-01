@@ -9,7 +9,6 @@ redirect_from:
 
 My research interests are in Natural Language Processing, Machine Learning, and Artificial Intelligence. My current research focuses on multimodality, sarcasm detection, and sentiment inference with large language models.
 
-</br>
 🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com
 
 📣 Our Recent Publications

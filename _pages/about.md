@@ -19,7 +19,10 @@ My current research is centered on the Sentiment Inference with Large Language M
   **Zhuang, Xingjie**, Fengling Zhou, and Zhixin Li</br>
    _**CIKM 2024**_ (**CCF-B类**,数据挖掘国际顶级会议,**Oral**)
 
+## 🎓 Educations
 
+* Guangxi Normal University (GXNU) 09/2023 - 07/2026
+* Fujian Jiangxia University (FJJXU) 09/2019 - 07/2023
 
 
 

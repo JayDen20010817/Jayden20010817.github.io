@@ -9,7 +9,7 @@ redirect_from:
 
 ## 📚 About Me
 
-My research interests are in Natural Language Processing, Machine Learning, and Artificial Intelligence. My current research focuses on multimodality, sarcasm detection, and sentiment inference with large language models.
+My current research is centered on the sentiment inference with large language models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on.
 
 🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com
 

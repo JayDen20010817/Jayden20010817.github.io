@@ -14,8 +14,8 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 ## 📣 News
 
-* 🎉[09/2024] 1 paper has been accepted by  _**ICDM 2024**_.
-* 🎉[07/2024] 1 paper has been accepted by  _**CIKM 2024**_.
+* 🎉[09/2024] 1 paper has been accepted by  _**<font color='red'>ICDM 2024**_.
+* 🎉[07/2024] 1 paper has been accepted by  _**<font color='red'>CIKM 2024**_.
 
 
 ## 📝 Publications

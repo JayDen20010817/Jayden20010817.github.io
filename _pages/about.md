@@ -13,13 +13,16 @@ My current research is centered on the Sentiment Inference with Large Language M
 🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com or zhuangxingjie617@gmail.com
 
 ## 📣 News
-
+* 🎉[12/2024] 1 paper has been accepted by  _**Engineering Applications of Artificial Intelligence (EAAI)**_.
 * 🎉[09/2024] 1 paper has been accepted by  _**ICDM 2024**_.
 * 🎉[07/2024] 1 paper has been accepted by  _**CIKM 2024**_.
 
 
 ## 📝 Publications
-
+🔥**A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues**\
+  **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and HuiFang Ma\
+  _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**中科院二区Top期刊, CCF-C类**)
+  
 🔥**Multi-modal Sarcasm Detection via Dual Synergetic Perception Graph Convolutional Networks** \
   **Xingjie Zhuang**, and Zhixin Li \
   _**ICDM 2024**_ (**CCF-B类**, 数据挖掘国际顶级会议, **Oral**)

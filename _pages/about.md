@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 <style>
-.page {
-  width: 100% !important;
-  padding-right: 0 !important;
+.sidebar {
+  margin-left: 50px !important;  /* 调整侧边栏位置 */
 }
-.page__content {
-  margin-left: 50px !important;   /* 调整这个值来控制向右移动的距离 */
-  width: calc(100% - 50px) !important;  /* 确保内容不会超出页面 */
+
+#main {
+  margin-left: 50px !important;  /* 调整主内容区位置 */
 }
+
 @media (min-width: 80em) {
-  .page__content {
-    padding-right: 0 !important;
+  .page {
+    width: calc(100% - 50px) !important;
+    padding-right: 50px !important;
   }
 }
 </style>

@@ -13,7 +13,7 @@ redirect_from:
 }
 .page__content {
   width: 100% !important;
-  max-width: 1000px !important;  /* 可以调整这个值 */
+  max-width: 800px !important;  /* 可以调整这个值 */
   padding-right: 0 !important;
 }
 @media (min-width: 80em) {

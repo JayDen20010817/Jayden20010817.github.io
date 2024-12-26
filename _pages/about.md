@@ -42,5 +42,5 @@ My current research is centered on the Sentiment Inference with Large Language M
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 
 
-<a href="https://info.flagcounter.com/sA4w"><img src="https://s11.flagcounter.com/map/sA4w/size_l/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://flagcounter.com/"><img src="https://flagcounter.com/map/sA4w/" alt="Flag Counter" border="0"></a>
 

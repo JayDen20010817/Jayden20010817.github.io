@@ -12,7 +12,7 @@ redirect_from:
 }
 
 #main {
-  margin-left: 50px !important;  /* 调整主内容区位置 */
+  margin-left: 200px !important;  /* 调整主内容区位置 */
 }
 
 @media (min-width: 80em) {

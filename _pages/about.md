@@ -8,11 +8,11 @@ redirect_from:
 ---
 <style>
 .sidebar {
-  margin-left: 50px !important;  /* 调整侧边栏位置 */
+  margin-left: 0px !important;  /* 调整侧边栏位置 */
 }
 
 #main {
-  margin-left: 200px !important;  /* 调整主内容区位置 */
+  margin-left: 50px !important;  /* 调整主内容区位置 */
 }
 
 @media (min-width: 80em) {

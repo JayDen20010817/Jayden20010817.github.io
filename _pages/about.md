@@ -12,9 +12,8 @@ redirect_from:
   padding-right: 0 !important;
 }
 .page__content {
-  width: 100% !important;
-  max-width: 800px !important;  /* 可以调整这个值 */
-  padding-right: 0 !important;
+  margin-left: 50px !important;   /* 调整这个值来控制向右移动的距离 */
+  width: calc(100% - 50px) !important;  /* 确保内容不会超出页面 */
 }
 @media (min-width: 80em) {
   .page__content {

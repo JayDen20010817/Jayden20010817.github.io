@@ -37,7 +37,7 @@ redirect_from:
 ## 📚 About Me
 
 My current research is centered on the Sentiment Inference with Large Language Models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on. \
-🤓 Welcome to communicate and learn with me, my email: jayden20010817@163.com or zhuangxingjie617@gmail.com
+🤓 Welcome to communicate and learn with me, my email: **jayden20010817@163.com** or **zhuangxingjie617@gmail.com**
 
 ## 📣 News
 * 🎉[12/2024] 1 paper has been accepted by  _**Engineering Applications of Artificial Intelligence (EAAI)**_.

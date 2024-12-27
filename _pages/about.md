@@ -2,6 +2,7 @@
 permalink: /
 title: "🤣👉Hello！this is Jayden's research homepage👈"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html

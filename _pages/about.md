@@ -48,15 +48,15 @@ My current research is centered on the Sentiment Inference with Large Language M
 ## 📝 Publications
 🔥**A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues**\
   **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and HuiFang Ma\
-  _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**中科院二区Top期刊, CCF-C类**)
+  _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**,**中科院二区Top期刊, CCF-C**)
   
 🔥**Multi-modal Sarcasm Detection via Dual Synergetic Perception Graph Convolutional Networks** \
   **Xingjie Zhuang**, and Zhixin Li \
-  _**ICDM 2024**_ (**CCF-B类**, 数据挖掘国际顶级会议, **Oral**)
+  _**ICDM 2024**_ (**CCF-B**, **Oral**)
   
 🔥**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection** \
   **Xingjie Zhuang**, Fengling Zhou, and Zhixin Li \
-   _**CIKM 2024**_ (**CCF-B类**, 数据挖掘国际顶级会议, **Oral**)
+   _**CIKM 2024**_ (**CCF-B**, **Oral**)
 
 ## 🎓 Educations
 

@@ -73,11 +73,11 @@ My current research is centered on the Sentiment Inference with Large Language M
   **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and HuiFang Ma\
   _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **中科院二区Top期刊, CCF-C**)
   
-🔥<font color='#6CBCD0'><b>Multi-modal Sarcasm Detection via Dual Synergetic Perception Graph Convolutional Networks </b></font> \
+🔥<font color='#6CBCD0'><b> Multi-modal Sarcasm Detection via Dual Synergetic Perception Graph Convolutional Networks </b></font> \
   **Xingjie Zhuang**, and Zhixin Li \
   _**IEEE International Conference on Data Mining (ICDM 2024)**_ (**CCF-B**, **Oral**)
   
-🔥<font color='#6CBCD0'><b>MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
+🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
 <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a>\
   **Xingjie Zhuang**, Fengling Zhou, and Zhixin Li \
    _**ACM International Conference on Information and Knowledge Management (CIKM 2024)**_ (**CCF-B**, **Oral**)

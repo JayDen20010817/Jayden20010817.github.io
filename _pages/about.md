@@ -8,13 +8,17 @@ redirect_from:
 ---
 <style>
 .page {
-  width: calc(100% - 300px) !important;
-  margin-left: 300px !important;
-  padding-right: 0 !important;
+  width: calc(100% - 350px) !important;
+  margin-left: 350px !important;
+  padding-right: 20px !important;
 }
 .sidebar {
-  width: 300px !important;
+  width: 350px !important;
   position: fixed !important;
+  padding-right: 20px !important;
+}
+#main {
+  max-width: 1800px !important;
 }
 .page__content {
   padding-right: 0 !important;

@@ -33,6 +33,29 @@ redirect_from:
     width: 100% !important;
   }
 }
+  .btn--primary {
+    background-color: #4dabf7;  /* 浅蓝色背景 */
+    color: #fff;
+    padding: 0.25em 0.75em;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 0.8em;
+    text-decoration: none !important;  /* 强制移除下划线 */
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.btn--primary:hover {
+    background-color: #339af0;  /* 悬停时稍深一点的蓝色 */
+    text-decoration: none !important;
+    color: #fff;
+}
+
+/* 确保链接没有下划线 */
+.page__content a {
+    text-decoration: none !important;
+}
 </style>
 ## 📚 About Me
 

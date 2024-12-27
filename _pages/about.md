@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.page {
+  width: 100% !important;
+  padding-right: 50px !important;
+}
+#main {
+  max-width: 1800px !important;
+}
+</style>
 ## 📚 About Me
 
 My current research is centered on the Sentiment Inference with Large Language Models, which refers to areas such as Multimodal Learning, NLP, Speech, and so on. \

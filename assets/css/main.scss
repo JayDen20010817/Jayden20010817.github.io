@@ -39,3 +39,12 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.wide {
+  .page {
+    width: 100%;
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
+  }
+}

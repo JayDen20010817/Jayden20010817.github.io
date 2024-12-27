@@ -36,7 +36,7 @@ My current research is centered on the Sentiment Inference with Large Language M
   Major: Big Data Technology and Engineering
   
 * Fujian Jiangxia University (FJJXU) <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** \
-  Major: Data Science and Big Data Technology
+  Major: Data Science and Big Data Technology\
   WAM: 86.36
 ## 💼 Industrial & Contest Experience
 * System Development & Data Analysis Intern, **STAR-NET(Akuvox)** (Apr.2023 – Jul.2023) 

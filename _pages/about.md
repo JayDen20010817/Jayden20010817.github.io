@@ -54,7 +54,7 @@ My current research is centered on the Sentiment Inference with Large Language M
   **Xingjie Zhuang**, and Zhixin Li \
   _**ICDM 2024**_ (**CCF-B**, **Oral**)
   
-🔥**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection** <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">PDF</a>\
+🔥**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection** <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">_**Paper**_</a>\
   **Xingjie Zhuang**, Fengling Zhou, and Zhixin Li \
    _**CIKM 2024**_ (**CCF-B**, **Oral**)
 

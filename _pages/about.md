@@ -34,10 +34,10 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 * Guangxi Normal University (GXNU) <font color='red'> 09/2023 - 07/2026 </font> **Master** \
   Major: Big Data Technology and Engineering
-  GPA:86.36
+  
 * Fujian Jiangxia University (FJJXU) <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** \
   Major: Data Science and Big Data Technology
-
+  WAM: 86.36
 ## 💼 Industrial & Contest Experience
 * System Development & Data Analysis Intern, **STAR-NET(Akuvox)** (Apr.2023 – Jul.2023) 
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021

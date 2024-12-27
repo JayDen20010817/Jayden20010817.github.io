@@ -40,17 +40,4 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
 
-.wide {
-  .page {
-    float: right;
-    width: calc(100% - 200px);
-    padding-right: 0;
-    
-    @media (min-width: 1024px) {
-      width: calc(100% - 300px);
-    }
-  }
-}

@@ -8,24 +8,25 @@ redirect_from:
 ---
 <style>
 .page {
-  width: 100% !important;
+  width: calc(100% - 300px) !important;
+  margin-left: 300px !important;
   padding-right: 0 !important;
 }
-#main {
-  max-width: 95vw !important;
-}
 .sidebar {
-  width: 250px !important;
+  width: 300px !important;
+  position: fixed !important;
 }
 .page__content {
   padding-right: 0 !important;
 }
-@media (min-width: 80em) {
+@media (max-width: 1024px) {
   .page {
-    padding-right: 0 !important;
+    width: 100% !important;
+    margin-left: 0 !important;
   }
-  .archive {
-    padding-right: 0 !important;
+  .sidebar {
+    position: relative !important;
+    width: 100% !important;
   }
 }
 </style>

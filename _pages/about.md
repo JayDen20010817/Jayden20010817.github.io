@@ -8,12 +8,12 @@ redirect_from:
 ---
 <style>
 .page {
-  width: calc(100% - 350px) !important;
-  margin-left: 350px !important;
+  width: calc(100% - 310px) !important;
+  margin-left: 320px !important;
   padding-right: 20px !important;
 }
 .sidebar {
-  width: 350px !important;
+  width: 320px !important;
   position: fixed !important;
   padding-right: 20px !important;
 }

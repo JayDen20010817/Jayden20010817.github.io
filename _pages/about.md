@@ -46,7 +46,7 @@ redirect_from:
     border: none;
 }
   .btn--second {
-    background-color: #DDDEDE;  /* 浅粉色背景 */
+    background-color: #F6C1C8;  /* 浅粉色背景 */
     color: #fff;
     padding: 0.25em 0.75em;
     border-radius: 4px;
@@ -87,7 +87,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 ## 📝 Publications
 🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
 <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
-<a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a>
+<a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a> \
   **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and Huifang Ma\
   _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **中科院二区Top期刊, CCF-C**)
   

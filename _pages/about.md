@@ -45,14 +45,25 @@ redirect_from:
     transition: background-color 0.3s ease;
     border: none;
 }
-
+  .btn--second {
+    background-color: #DDDEDE;  /* 浅粉色背景 */
+    color: #fff;
+    padding: 0.25em 0.75em;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 0.8em;
+    text-decoration: none !important;  /* 强制移除下划线 */
+    margin-left: 10px;
+    transition: background-color 0.3s ease;
+    border: none;
+}
 .btn--primary:hover {
     background-color: #339af0;  /* 悬停时稍深一点的蓝色 */
     text-decoration: none !important;
     color: #fff;
 }
 .btn--second:hover {
-    background-color: #DDDEDE;  /* 悬停时稍深一点的粉色 */
+    background-color: #D882AD;  /* 悬停时稍深一点的粉色 */
     text-decoration: none !important;
     color: #fff;
 }
@@ -74,9 +85,9 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 
 ## 📝 Publications
-🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>\
-<a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>\
-<a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a>\
+🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
+<a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
+<a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a>
   **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and Huifang Ma\
   _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **中科院二区Top期刊, CCF-C**)
   

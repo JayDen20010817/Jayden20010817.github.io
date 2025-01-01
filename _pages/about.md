@@ -46,7 +46,7 @@ redirect_from:
     border: none;
 }
   .btn--second {
-    background-color: #F6C1C8;  /* 浅粉色背景 */
+    background-color: #F2A7DA;  /* 浅粉色背景 */
     color: #fff;
     padding: 0.25em 0.75em;
     border-radius: 4px;

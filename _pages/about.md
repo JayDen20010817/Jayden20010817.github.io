@@ -109,6 +109,7 @@ My current research is centered on the Sentiment Inference with Large Language M
   WAM: 86.36
 
 ## 💼 Industrial & Contest Experience
+* Large Language Model Algorithm Intern, **IICT** (Mar.2025 – Present)
 * System Development & Data Analysis Intern, **Akuvox/STAR-NET** (Apr.2023 – Jul.2023) 
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 

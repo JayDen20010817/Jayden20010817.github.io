@@ -114,7 +114,8 @@ My current research is centered on the Sentiment Inference with Large Language M
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 
 ## ⚡ Academic Services
-* IEEE International Conference on Multimedia & Expo (ICME) 2025 Reviewer
-* ACM International Conference on Information and Knowledge Management (CIKM) 2024 Reviewer
+* IEEE International Conference on Multimedia & Expo (ICME) Reviewer
+* ACM International Conference on Information and Knowledge Management (CIKM) Reviewer
+* International Journal of Machine Learning and Cybernetics (IJMLC) Reviewer
 
 <a href="https://info.flagcounter.com/KHH5"><img src="https://s01.flagcounter.com/map/KHH5/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>

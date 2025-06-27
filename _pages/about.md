@@ -79,6 +79,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 🤓 Welcome to communicate and learn with me, my email: **jayden20010817@163.com** or **zhuangxingjie617@gmail.com**
 
 ## 📣 News
+* 🎉[05/2025] <font color='red'><b> 1 </b></font> paper has been accepted by  _**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**_.
 * 🎉[01/2025] <font color='red'><b> 1 </b></font> paper has been accepted by  _**Knowledge-Based Systems (KBS)**_.
 * 🎉[12/2024] <font color='red'><b> 1 </b></font> paper has been accepted by  _**Engineering Applications of Artificial Intelligence (EAAI)**_.
 * 🎉[09/2024] <font color='red'><b> 1 </b></font> paper has been accepted by  _**ICDM 2024**_.

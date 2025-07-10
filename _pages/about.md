@@ -94,18 +94,18 @@ My current research is centered on the Sentiment Inference with Large Language M
   
 🔥<font color='#6CBCD0'><b> Multi-modal Sarcasm Detection via Dual Synergetic Perception Graph Convolutional Networks </b></font> \
   **Xingjie Zhuang**, and Zhixin Li \
-  _**IEEE International Conference on Data Mining (ICDM 2024)**_ (**CCF-B**, **Oral**)
+  _**IEEE International Conference on Data Mining (ICDM 2024)**_ (**CCF-B**)
   
 🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
 <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a>\
   **Xingjie Zhuang**, Fengling Zhou, and Zhixin Li \
-   _**ACM International Conference on Information and Knowledge Management (CIKM 2024)**_ (**CCF-B**, **Oral**)-->
+   _**ACM International Conference on Information and Knowledge Management (CIKM 2024)**_ (**CCF-B**)-->
 
 ## 🎓 Educations
 
-* Guangxi Normal University (GXNU) <font color='red'> 09/2023 - 07/2026 </font> **Master** \
+* Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> **Master** \
   Major: Big Data Technology and Engineering
-* Fujian Jiangxia University (FJJXU) <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** \
+* Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** \
   Major: Data Science and Big Data Technology 
   
 
@@ -115,9 +115,9 @@ My current research is centered on the Sentiment Inference with Large Language M
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 
 ## ⚡ Academic Services
-* IEEE International Conference on Multimedia & Expo (ICME) Reviewer
-* ACM International Conference on Information and Knowledge Management (CIKM) Reviewer
-* International Journal of Machine Learning and Cybernetics (IJMLC) Reviewer
+* ICME Reviewer
+* CIKM Reviewer
+* IJMLC Reviewer
 * Multimedia Systems (MS) Reviewer
 
 <a href="https://info.flagcounter.com/KHH5"><img src="https://s01.flagcounter.com/map/KHH5/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>

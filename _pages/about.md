@@ -95,7 +95,39 @@ body {
   backdrop-filter: blur(5px);
   border-radius: 12px;
 }
+  .kun-gif {
+  position: fixed;
+  width: 150px;  /* 调整大小 */
+  height: 150px; /* 保持宽高一致 */
+  z-index: 100;
+  pointer-events: none;
+  transition: transform 0.2s ease-out;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0 0 8px rgba(0,0,0,0.3)); /* 添加阴影效果 */
+}
 </style>
+<div class="kun-gif">
+  <img src="YOUR_GIF_URL_HERE" 
+       alt="Custom GIF"
+       style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+</div>
+
+<script>
+  document.addEventListener('mousemove', function(e) {
+    const gif = document.querySelector('.kun-gif');
+    // 调整这两个数值控制跟随距离 (越小越贴近鼠标)
+    const offsetX = 15; 
+    const offsetY = 15;
+    
+    gif.style.left = (e.pageX + offsetX) + 'px';
+    gif.style.top = (e.pageY + offsetY) + 'px';
+    
+    // 可选：添加弹性效果
+    const rotate = (Math.sin(Date.now()/300) * 10) + 'deg';
+    const scale = 1 + Math.sin(Date.now()/500) * 0.05;
+    gif.style.transform = `translate(-50%, -50%) rotate(${rotate}) scale(${scale})`;
+  });
+</script>
 
 ## 📚 About Me
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">

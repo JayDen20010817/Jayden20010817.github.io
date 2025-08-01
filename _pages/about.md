@@ -132,12 +132,12 @@ My current research is centered on the Sentiment Inference with Large Language M
 🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
 <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
 <a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a> \
-  **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and Huifang Ma\
+  **Xingjie Zhuang**, Zhixin Li, Canlong Zhang, Huifang Ma\
   _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **CAS Zone 1, CCF-C**)
   
 🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
 <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a>\
-  **Xingjie Zhuang**, Fengling Zhou, and Zhixin Li \
+  **Xingjie Zhuang**, Fengling Zhou, Zhixin Li \
    _**ACM International Conference on Information and Knowledge Management (CIKM 2024)**_ (**CCF-B**)
 
 ## 🎓 Educations

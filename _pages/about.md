@@ -153,10 +153,14 @@ My current research is centered on the Sentiment Inference with Large Language M
 * System Development & Data Analysis Intern, **Akuvox/STAR-NET** (Apr.2023 – Jul.2023) 
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 
-## ⚡ Academic Services
-* ICME Reviewer
-* CIKM Reviewer
-* IJMLC Reviewer
-* Multimedia Systems (MS) Reviewer
+## ⚡ Academic Services/Reviewer
+<div style="font-size: 0.8em; font-style: italic; color: #666; margin-left: 10px;">
+  <ul style="margin-top: 5px; padding-left: 20px;">
+    <li>ICME </li>
+    <li>CIKM </li>
+    <li>International Journal of Machine Learning and Cybernetics </li>
+    <li>Multimedia Systems</li>
+  </ul>
+</div>
 
 <a href="https://info.flagcounter.com/KHH5"><img src="https://s01.flagcounter.com/map/KHH5/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>

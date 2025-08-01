@@ -86,7 +86,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 * 🎉[07/2024] <font color='red'><b> 1 </b></font> paper has been accepted by  _**CIKM 2024**_.
 
 
-## 📝 Publications
+## 📝 Selected Publications
 
 🔥<font color='#6CBCD0'><b> Multi-Modal Sarcasm Detection via Knowledge-Aware Focused Graph Convolutional Networks </b></font>
 <a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">**Paper**</a>\

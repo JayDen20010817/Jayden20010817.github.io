@@ -152,7 +152,5 @@ My current research is centered on the Sentiment Inference with Large Language M
 * CIKM Reviewer
 * IJMLC Reviewer
 * Multimedia Systems (MS) Reviewer
-<div style="text-align: center; margin: 30px 0;">
-  <img src="https://media.giphy.com/media/3o7TKz2eMXxwKkNUnG/giphy.gif" alt="Coding GIF" style="width: 200px; border-radius: 8px;">
-</div>
+
 <a href="https://info.flagcounter.com/KHH5"><img src="https://s01.flagcounter.com/map/KHH5/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>

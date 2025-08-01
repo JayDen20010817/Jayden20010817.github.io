@@ -87,11 +87,23 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 
 ## 📝 Publications
+
+🔥<font color='#6CBCD0'><b> Multi-Modal Sarcasm Detection via Knowledge-Aware Focused Graph Convolutional Networks </b></font>
+<a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
+  **Xingjie Zhuang**, Fengling Zhou, Zhixin Li\
+  _**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**_ (**JCR Q1**, **CCF-B**)
+
+
+🔥<font color='#6CBCD0'><b> DyCR-Net: A dynamic context-aware routing network for multi-modal sarcasm detection in conversation </b></font>
+<a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
+  **Xingjie Zhuang**, Zhixin Li, Fengling Zhou, Jingliang Gu, Canlong Zhang, Huifang Ma\
+  _**Knowledge-Based Systems (KBS)**_ (**JCR Q1**, **CAS Zone 1, CCF-C**)
+
 🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
 <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
 <a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a> \
   **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and Huifang Ma\
-  _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **中科院一区Top期刊, CCF-C**)
+  _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **CAS Zone 1, CCF-C**)
   
 🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
 <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a>\

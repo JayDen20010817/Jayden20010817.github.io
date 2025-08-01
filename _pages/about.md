@@ -107,8 +107,8 @@ body {
 </style>
 
 <div class="follow-gif">
-  <img src="kun.gif" 
-       alt="Kun Basketball"
+  <img src="cat_MEME.gif" 
+       alt="cat"
        style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
 </div>
 

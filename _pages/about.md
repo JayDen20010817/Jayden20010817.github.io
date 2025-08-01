@@ -95,27 +95,10 @@ body {
   backdrop-filter: blur(5px);
   border-radius: 12px;
 }
-  .floating-gif {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 100px;
-    z-index: 100;
-    transition: all 0.3s ease;
-  }
+
 </style>
 
-<div class="floating-gif">
-  <img src="https://github.com/JayDen20010817/Jayden20010817.github.io/blob/master/_pages/kun.gif" alt="Floating GIF" style="width: 100%; border-radius: 50%;">
-</div>
 
-<script>
-  document.addEventListener('mousemove', function(e) {
-    const gif = document.querySelector('.floating-gif');
-    gif.style.left = (e.pageX + 20) + 'px';
-    gif.style.top = (e.pageY + 20) + 'px';
-  });
-</script>
 
 ## 📚 About Me
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">

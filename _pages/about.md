@@ -107,7 +107,7 @@ body {
 }
 </style>
 <div class="kun-gif">
-  <img src="YOUR_GIF_URL_HERE" 
+  <img src="https://github.com/JayDen20010817/Jayden20010817.github.io/blob/master/_pages/kun.gif" 
        alt="Custom GIF"
        style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
 </div>

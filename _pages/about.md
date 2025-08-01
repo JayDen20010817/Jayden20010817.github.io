@@ -97,7 +97,9 @@ body {
 }
 </style>
 ## 📚 About Me
-
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV0Z3J6d2Y0d3B0dGJ6d2V6Z2J6Z2V6Z2J6Z2V6Z2J6Z2V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Academic GIF" style="width: 150px; border-radius: 8px;">
+</div>
 My current research is centered on the Sentiment Inference with Large Language Models, which refers to areas such as Multimodal Learning, NLP, Speech, RAG and so on. \
 🤓 Welcome to communicate and learn with me, my email: **jayden20010817@163.com** or **zhuangxingjie617@gmail.com**
 

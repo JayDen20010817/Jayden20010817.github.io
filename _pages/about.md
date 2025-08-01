@@ -89,12 +89,12 @@ My current research is centered on the Sentiment Inference with Large Language M
 ## 📝 Publications
 
 🔥<font color='#6CBCD0'><b> Multi-Modal Sarcasm Detection via Knowledge-Aware Focused Graph Convolutional Networks </b></font>
-<a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">**Paper**</a>
+<a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">**Paper**</a>\
   **Xingjie Zhuang**, Fengling Zhou, Zhixin Li\
   _**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**_ (**JCR Q1**, **CCF-B**)
 
 🔥<font color='#6CBCD0'><b> DyCR-Net: A dynamic context-aware routing network for multi-modal sarcasm detection in conversation </b></font>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125000772" class="btn btn--primary btn--small">**Paper**</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125000772" class="btn btn--primary btn--small">**Paper**</a>\
   **Xingjie Zhuang**, Zhixin Li, Fengling Zhou, Jingliang Gu, Canlong Zhang, Huifang Ma\
   _**Knowledge-Based Systems (KBS)**_ (**JCR Q1**, **CAS Zone 1, CCF-C**)
 

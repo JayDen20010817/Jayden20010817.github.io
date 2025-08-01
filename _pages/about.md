@@ -34,7 +34,7 @@ redirect_from:
   }
 }
   .btn--primary {
-    background-color: #4dabf7;  /* 浅蓝色背景 */
+    background-color: #f0f2f5;  /* 浅蓝色背景 */
     color: #fff;
     padding: 0.25em 0.75em;
     border-radius: 4px;

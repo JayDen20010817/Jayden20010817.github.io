@@ -95,27 +95,9 @@ body {
   backdrop-filter: blur(5px);
   border-radius: 12px;
 }
-.floating-gif {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  width: 100px;
-  z-index: 100;
-  transition: all 0.3s ease;
-}
+
 </style>
 
-<div class="floating-gif">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWltY21rZDhrYjhkdnVqMnVwaXJlNWN3d3NpZTZlaHpmNm94Mm8weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif" alt="Floating GIF" style="width: 100%; border-radius: 50%;">
-</div>
-
-<script>
-  document.addEventListener('mousemove', function(e) {
-    const gif = document.querySelector('.floating-gif');
-    gif.style.left = (e.pageX + 5) + 'px';
-    gif.style.top = (e.pageY + 5) + 'px';
-  });
-</script>
 
 ## 📚 About Me
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">

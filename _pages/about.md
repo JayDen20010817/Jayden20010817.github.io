@@ -95,10 +95,30 @@ body {
   backdrop-filter: blur(5px);
   border-radius: 12px;
 }
-
+.follow-gif {
+  position: fixed;
+  width: 120px;
+  height: 120px;
+  z-index: 100;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  transition: transform 0.1s ease-out;
+}
 </style>
 
+<div class="follow-gif">
+  <img src="kun.gif" 
+       alt="Kun Basketball"
+       style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+</div>
 
+<script>
+  document.addEventListener('mousemove', function(e) {
+    const gif = document.querySelector('.follow-gif');
+    gif.style.left = (e.pageX + 15) + 'px';  // 水平偏移15px
+    gif.style.top = (e.pageY + 15) + 'px';   // 垂直偏移15px
+  });
+</script>
 
 ## 📚 About Me
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">

@@ -78,6 +78,9 @@ body {
   animation: gradient 15s ease infinite;
 }
 
+body, html {
+  cursor: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ1d2ZjY2c5ZWVyaWRtaHJveTJsMWsxNnFmZzZnZ28zaXZ1amNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif'), auto;
+}  
 @keyframes gradient {
   0% {
     background-position: 0% 50%;

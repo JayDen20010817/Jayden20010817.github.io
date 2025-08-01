@@ -107,7 +107,7 @@ body {
 </style>
 
 <div class="follow-gif">
-  <img src="cat_MEME.gif" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWltY21rZDhrYjhkdnVqMnVwaXJlNWN3d3NpZTZlaHpmNm94Mm8weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif" 
        alt="cat"
        style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
 </div>
@@ -115,8 +115,8 @@ body {
 <script>
   document.addEventListener('mousemove', function(e) {
     const gif = document.querySelector('.follow-gif');
-    gif.style.left = (e.pageX + 15) + 'px';  // 水平偏移15px
-    gif.style.top = (e.pageY + 15) + 'px';   // 垂直偏移15px
+    gif.style.left = (e.pageX + 5) + 'px';  // 水平偏移5px
+    gif.style.top = (e.pageY + 5) + 'px';   // 垂直偏移5px
   });
 </script>
 

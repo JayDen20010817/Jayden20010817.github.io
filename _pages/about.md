@@ -34,7 +34,7 @@ redirect_from:
   }
 }
   .btn--primary {
-    background-color: #f0f2f5;  /* 浅蓝色背景 */
+    background-color: #f5f7fa;  /* 浅蓝色背景 */
     color: #fff;
     padding: 0.25em 0.75em;
     border-radius: 4px;
@@ -71,6 +71,10 @@ redirect_from:
 /* 确保链接没有下划线 */
 .page__content a {
     text-decoration: none !important;
+}
+  body {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-attachment: fixed; /* 背景固定，滚动时更美观 */
 }
 </style>
 ## 📚 About Me

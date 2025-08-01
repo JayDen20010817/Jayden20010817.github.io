@@ -86,7 +86,8 @@ My current research is centered on the Sentiment Inference with Large Language M
 * 🎉[07/2024] <font color='red'><b> 1 </b></font> paper has been accepted by  _**CIKM 2024**_.
 
 
-## 📝 Publications🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
+## 📝 Publications
+🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
 <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
 <a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a> \
   **Xingjie Zhuang**, Zhixin Li , Canlong Zhang and Huifang Ma\

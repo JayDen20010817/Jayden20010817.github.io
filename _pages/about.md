@@ -95,28 +95,25 @@ body {
   backdrop-filter: blur(5px);
   border-radius: 12px;
 }
-.follow-gif {
+.floating-gif {
   position: fixed;
-  width: 120px;
-  height: 120px;
+  bottom: 20px;
+  right: 20px;
+  width: 100px;
   z-index: 100;
-  pointer-events: none;
-  transform: translate(-50%, -50%);
-  transition: transform 0.1s ease-out;
+  transition: all 0.3s ease;
 }
 </style>
 
-<div class="follow-gif">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWltY21rZDhrYjhkdnVqMnVwaXJlNWN3d3NpZTZlaHpmNm94Mm8weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif" 
-       alt="cat"
-       style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+<div class="floating-gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWltY21rZDhrYjhkdnVqMnVwaXJlNWN3d3NpZTZlaHpmNm94Mm8weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif" alt="Floating GIF" style="width: 100%; border-radius: 50%;">
 </div>
 
 <script>
   document.addEventListener('mousemove', function(e) {
-    const gif = document.querySelector('.follow-gif');
-    gif.style.left = (e.pageX + 5) + 'px';  // 水平偏移5px
-    gif.style.top = (e.pageY + 5) + 'px';   // 垂直偏移5px
+    const gif = document.querySelector('.floating-gif');
+    gif.style.left = (e.pageX + 5) + 'px';
+    gif.style.top = (e.pageY + 5) + 'px';
   });
 </script>
 

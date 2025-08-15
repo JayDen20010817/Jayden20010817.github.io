@@ -111,11 +111,11 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 ## 📣 News
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
-  <p>🎉<strong>[07/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by **Neural Networks**.</p>
-  <p>🎉<strong>[05/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by **ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**.</p>
-  <p>🎉<strong>[01/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by **Knowledge-Based Systems (KBS)**.</p>
-  <p>🎉<strong>[12/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by **Engineering Applications of Artificial Intelligence (EAAI)**.</p>
-  <p>🎉<strong>[07/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by **CIKM 2024**.</p>
+  <p>🎉<span style="font-weight: bold;">[07/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong>Neural Networks</strong>.</p>
+  <p>🎉<span style="font-weight: bold;">[05/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</strong>.</p>
+  <p>🎉<span style="font-weight: bold;">[01/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong>Knowledge-Based Systems (KBS)</strong>.</p>
+  <p>🎉<span style="font-weight: bold;">[12/2024]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong>Engineering Applications of Artificial Intelligence (EAAI)</strong>.</p>
+  <p>🎉<span style="font-weight: bold;">[07/2024]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong>CIKM 2024</strong>.</p>
 </div>
 
 

@@ -111,11 +111,11 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 ## 📣 News
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
-  <p>🎉<strong>[07/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>Neural Networks</em>.</p>
-  <p>🎉<strong>[05/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</em>.</p>
-  <p>🎉<strong>[01/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>Knowledge-Based Systems (KBS)</em>.</p>
-  <p>🎉<strong>[12/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>Engineering Applications of Artificial Intelligence (EAAI)</em>.</p>
-  <p>🎉<strong>[07/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>CIKM 2024</em>.</p>
+  <p>🎉<strong>[07/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by **Neural Networks**.</p>
+  <p>🎉<strong>[05/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by **ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**.</p>
+  <p>🎉<strong>[01/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by **Knowledge-Based Systems (KBS)**.</p>
+  <p>🎉<strong>[12/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by **Engineering Applications of Artificial Intelligence (EAAI)**.</p>
+  <p>🎉<strong>[07/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by **CIKM 2024**.</p>
 </div>
 
 

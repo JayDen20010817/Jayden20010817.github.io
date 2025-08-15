@@ -110,11 +110,13 @@ My current research is centered on the Sentiment Inference with Large Language M
 🤓 Welcome to communicate and learn with me, my email: **jayden20010817@163.com** or **zhuangxingjie617@gmail.com**
 
 ## 📣 News
-* 🎉[07/2025] <font color='red'><b> 1 </b></font> paper has been accepted by  _**Neural Networks**_.
-* 🎉[05/2025] <font color='red'><b> 1 </b></font> paper has been accepted by  _**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**_.
-* 🎉[01/2025] <font color='red'><b> 1 </b></font> paper has been accepted by  _**Knowledge-Based Systems (KBS)**_.
-* 🎉[12/2024] <font color='red'><b> 1 </b></font> paper has been accepted by  _**Engineering Applications of Artificial Intelligence (EAAI)**_.
-* 🎉[07/2024] <font color='red'><b> 1 </b></font> paper has been accepted by  _**CIKM 2024**_.
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+  <p>🎉<strong>[07/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>Neural Networks</em>.</p>
+  <p>🎉<strong>[05/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</em>.</p>
+  <p>🎉<strong>[01/2025]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>Knowledge-Based Systems (KBS)</em>.</p>
+  <p>🎉<strong>[12/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>Engineering Applications of Artificial Intelligence (EAAI)</em>.</p>
+  <p>🎉<strong>[07/2024]</strong> <font color='red'><b>1</b></font> paper has been accepted by <em>CIKM 2024</em>.</p>
+</div>
 
 
 ## 📝 Selected Publications

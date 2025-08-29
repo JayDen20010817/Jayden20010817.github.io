@@ -160,7 +160,7 @@ My current research is centered on the Sentiment Inference with Large Language M
   <ul style="margin-top: 5px; padding-left: 20px;">
     <li>ICME </li>
     <li>CIKM </li>
-    <li>neurocomputing </li>
+    <li>Neurocomputing </li>
     <li>International Journal of Machine Learning and Cybernetics </li>
     <li>Multimedia Systems </li>
     <li>Journal of Intelligent Information Systems </li>

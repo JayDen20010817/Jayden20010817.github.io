@@ -151,7 +151,7 @@ My current research is centered on the Sentiment Inference with Large Language M
   
 
 ## 💼 Industrial & Contest Experience
-* Large Language Model Algorithm Intern, **Institute of Intelligent Computing Technology, Suzhou, CAS(IICT)** (Mar.2025 – Sep.2025), under the supervision of Prof. [Xiang Ao](https://aoxaustin.github.io/)
+* LLM Algorithm Intern, **Institute of Intelligent Computing Technology, Suzhou, CAS(IICT)** (Mar.2025 – Sep.2025), under the supervision of Prof. [Xiang Ao](https://aoxaustin.github.io/)
 * System Development & Data Analysis Intern, **Akuvox/STAR-NET** (Apr.2023 – Jul.2023) 
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 

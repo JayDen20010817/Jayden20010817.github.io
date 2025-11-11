@@ -111,6 +111,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 
 ## 📣 News
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
+  <p>🎉<span style="font-weight: bold;">[10/2025]</span> I won a <strong><em>Outstanding Graduate Student Scholarship (only 18 awardees campus-wide)</em></strong>.</p>
   <p>🎉<span style="font-weight: bold;">[10/2025]</span> I won a <strong><em>National Scholarship</em></strong>.</p>
   <p>🎉<span style="font-weight: bold;">[07/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong><em>Neural Networks</em></strong>.</p>
   <p>🎉<span style="font-weight: bold;">[05/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong><em>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</em></strong>.</p>
@@ -159,6 +160,7 @@ My current research is centered on the Sentiment Inference with Large Language M
 ## ⚡ Academic Services/Reviewer
 <div style="font-size: 0.8em; font-style: italic; color: #666; margin-left: 10px;">
   <ul style="margin-top: 5px; padding-left: 20px;">
+    <li>ICASSP </li>
     <li>ICME </li>
     <li>CIKM </li>
     <li>Neurocomputing </li>

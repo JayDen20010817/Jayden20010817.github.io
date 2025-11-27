@@ -163,6 +163,7 @@ My current research is centered on the Sentiment Inference with Large Language M
     <li>ICASSP </li>
     <li>ICME </li>
     <li>CIKM </li>
+    <li>Knowledge-based Systems </li>
     <li>Neurocomputing </li>
     <li>International Journal of Machine Learning and Cybernetics </li>
     <li>Multimedia Systems </li>

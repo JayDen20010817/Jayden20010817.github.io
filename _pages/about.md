@@ -111,7 +111,7 @@ My current research focuses primarily on Multilingual Large Language Models, Mul
 
 ## 📣 News
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
-  <p>🎉<span style="font-weight: bold;">[05/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong><em>Information Fusion</em></strong>.</p>
+  <p>🎉<span style="font-weight: bold;">[04/2026]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong><em>Information Fusion</em></strong>.</p>
   <p>🎉<span style="font-weight: bold;">[11/2025]</span> I won a <strong><em>Outstanding Graduate Student Scholarship (only 18 awardees campus-wide)</em></strong>.</p>
   <p>🎉<span style="font-weight: bold;">[10/2025]</span> I won a <strong><em>National Scholarship</em></strong>.</p>
   <p>🎉<span style="font-weight: bold;">[07/2025]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong><em>Neural Networks</em></strong>.</p>

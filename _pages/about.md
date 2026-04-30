@@ -154,8 +154,8 @@ My current research focuses primarily on Multilingual Large Language Models, Mul
 
 ## 🎓 Educations
 
-* Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> **Master**, under the supervision of Prof. [Zhixin Li](http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm)\
-* Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** \
+* Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> **Master**, under the supervision of Prof. [Zhixin Li](http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm)
+* Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** 
   
 ## 💼 Industrial & Contest Experience
 * LLM Algorithm Intern, **Institute of Intelligent Computing Technology, Suzhou, CAS(IICT)** (Mar.2025 – Sep.2025), under the supervision of Prof. [Xiang Ao](https://aoxaustin.github.io/)

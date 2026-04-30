@@ -162,7 +162,13 @@ My current research focuses primarily on Multilingual Large Language Models, Mul
 
 ## 💼 Industrial & Contest Experience
 * LLM Algorithm Intern, **Institute of Intelligent Computing Technology, Suzhou, CAS(IICT)** (Mar.2025 – Sep.2025), under the supervision of Prof. [Xiang Ao](https://aoxaustin.github.io/)
-* System Development & Data Analysis Intern, **Akuvox/STAR-NET** (Apr.2023 – Jul.2023) 
+* System Development & Data Analysis Intern, **Akuvox/STAR-NET** (Apr.2023 – Jul.2023)
+
+## 🏆 Honors and Awards
+* Outstanding Graduate in GXNU
+* National Scholarship,2025
+* Outstanding Graduate Student Scholarship,2025
+* The First Prize Scholarship,2025
 * **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
 
 ## ⚡ Academic Services/Reviewer

@@ -126,7 +126,7 @@ My current research focuses primarily on Multilingual Large Language Models, Mul
 
 
 🔥<font color='#6CBCD0'><b> MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection </b></font>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526003167" class="btn btn--primary btn--small">**Paper**</a>\
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526003167" class="btn btn--primary btn--small">**Paper**</a>
 <a href="https://github.com/JayDen20010817/MPF" class="btn btn--second btn--small">**Code**</a> \
   **Xingjie Zhuang**, Zhixin Li, Fengling Zhou, Canlong Zhang, Huifang Ma\
   _**Information Fusion**_ (**JCR Q1**, **CAS Zone 1**)

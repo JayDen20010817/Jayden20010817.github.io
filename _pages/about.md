@@ -106,8 +106,10 @@ body, html {
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV0Z3J6d2Y0d3B0dGJ6d2V6Z2J6Z2V6Z2J6Z2V6Z2J6Z2V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Academic GIF" style="width: 150px; border-radius: 8px;">
 </div>
-My current research focuses primarily on Multilingual Large Language Models, Multimodal Large Language Model Reasoning, Multimodal Sentiment Analysis, and Retrieval-Augmented Generation(RAG). \
-🤓 Looking forward to learning and exchanging ideas with you, my email: **jayden20010817@163.com** or **zhuangxingjie617@gmail.com**
+My research interests cover Multilingual Large Language Models, Multimodal Reasoning, Omni Large Language Models.
+As a PhD candidate at **Xiamen University** and a member of the [**DeepLIT**](https://xmudeeplit.github.io/) Group, I work under the guidance of Prof. [**Jinsong Su**](https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/). \
+😁Feel free to reach out for academic communication.
+Emails: jayden20010817@163.com | zhuangxingjie617@gmail.com
 
 ## 📣 News
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
@@ -154,6 +156,7 @@ My current research focuses primarily on Multilingual Large Language Models, Mul
 
 ## 🎓 Educations
 
+* Xiamen University <font color='red'> 09/2026 - 07/2030 </font> **Master**, under the supervision of Prof. [Jinsong Su](https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/)
 * Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> **Master**, under the supervision of Prof. [Zhixin Li](http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm)
 * Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** 
   

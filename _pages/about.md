@@ -128,29 +128,29 @@ body, html {
 ## 📝 Selected Publications
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
   🔥<font color='#6CBCD0'><b> MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection </b></font>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526003167" class="btn btn--primary btn--small">**Paper**</a>
-  <a href="https://github.com/JayDen20010817/MPF" class="btn btn--second btn--small">**Code**</a> <br>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526003167" class="btn btn--primary btn--small">Paper</a>
+  <a href="https://github.com/JayDen20010817/MPF" class="btn btn--second btn--small">Code</a> <br>
   <strong>Xingjie Zhuang</strong>, Zhixin Li, Fengling Zhou, Canlong Zhang, Huifang Ma<br>
   <em><strong>Information Fusion</strong></em> (<strong>JCR Q1</strong>, <strong>CAS Zone 1</strong>)
   <br><br>
   🔥<font color='#6CBCD0'><b> Multi-Modal Sarcasm Detection via Knowledge-Aware Focused Graph Convolutional Networks </b></font>
-  <a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">**Paper**</a><br>
+  <a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">Paper</a><br>
   <strong>Xingjie Zhuang</strong>, Fengling Zhou, Zhixin Li<br>
   <em><strong>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</strong></em> (<strong>JCR Q1</strong>, <strong>CCF-B</strong>)
   <br><br>
   🔥<font color='#6CBCD0'><b> DyCR-Net: A dynamic context-aware routing network for multi-modal sarcasm detection in conversation </b></font>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125000772" class="btn btn--primary btn--small">**Paper**</a><br>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125000772" class="btn btn--primary btn--small">Paper</a><br>
   <strong>Xingjie Zhuang</strong>, Zhixin Li, Fengling Zhou, Jingliang Gu, Canlong Zhang, Huifang Ma<br>
   <em><strong>Knowledge-Based Systems (KBS)</strong></em> (<strong>JCR Q1</strong>, <strong>CAS Zone 1, CCF-C</strong>)
   <br><br>
   🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
-  <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
-  <a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a><br>
+  <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">Paper</a>
+  <a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">Code</a><br>
   <strong>Xingjie Zhuang</strong>, Zhixin Li, Canlong Zhang, Huifang Ma<br>
   <em><strong>Engineering Applications of Artificial Intelligence (EAAI)</strong></em> (<strong>JCR Q1</strong>, <strong>CAS Zone 1, CCF-C</strong>)
   <br><br>
   🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
-  <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a><br>
+  <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">Paper</a><br>
   <strong>Xingjie Zhuang</strong>, Fengling Zhou, Zhixin Li<br>
   <em><strong>ACM International Conference on Information and Knowledge Management (CIKM 2024)</strong></em> (<strong>CCF-B</strong>)
 </div>

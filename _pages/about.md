@@ -106,7 +106,7 @@ body, html {
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV0Z3J6d2Y0d3B0dGJ6d2V6Z2J6Z2V6Z2J6Z2V6Z2J6Z2V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Academic GIF" style="width: 150px; border-radius: 8px;">
 </div>
-<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 18px;">
   My research interests cover Multilingual Large Language Models, Multimodal Reasoning, Omni Large Language Models.
   As a PhD candidate at <strong>Xiamen University</strong> and a member of the <a href="https://xmudeeplit.github.io/"><strong>DeepLIT</strong></a> Group, I work under the guidance of Prof. <a href="https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/"><strong>Jinsong Su</strong></a>. <br>
   😁Feel free to reach out for academic communication.<br>

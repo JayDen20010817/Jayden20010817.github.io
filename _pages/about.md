@@ -106,10 +106,12 @@ body, html {
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV0Z3J6d2Y0d3B0dGJ6d2V6Z2J6Z2V6Z2J6Z2V6Z2J6Z2V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Academic GIF" style="width: 150px; border-radius: 8px;">
 </div>
-My research interests cover Multilingual Large Language Models, Multimodal Reasoning, Omni Large Language Models.
-As a PhD candidate at **Xiamen University** and a member of the [**DeepLIT**](https://xmudeeplit.github.io/) Group, I work under the guidance of Prof. [**Jinsong Su**](https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/). \
-😁Feel free to reach out for academic communication.
-Emails: jayden20010817@163.com | zhuangxingjie617@gmail.com
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+  My research interests cover Multilingual Large Language Models, Multimodal Reasoning, Omni Large Language Models.
+  As a PhD candidate at <strong>Xiamen University</strong> and a member of the <a href="https://xmudeeplit.github.io/"><strong>DeepLIT</strong></a> Group, I work under the guidance of Prof. <a href="https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/"><strong>Jinsong Su</strong></a>. <br>
+  😁Feel free to reach out for academic communication.<br>
+  Emails: jayden20010817@163.com | zhuangxingjie617@gmail.com
+</div>
 
 ## 📣 News
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px;">
@@ -123,67 +125,76 @@ Emails: jayden20010817@163.com | zhuangxingjie617@gmail.com
   <p>🎉<span style="font-weight: bold;">[07/2024]</span> <span style="color: red; font-weight: bold;">1</span> paper has been accepted by <strong><em>CIKM 2024</em></strong>.</p>
 </div>
 
-
 ## 📝 Selected Publications
-
-
-🔥<font color='#6CBCD0'><b> MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection </b></font>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526003167" class="btn btn--primary btn--small">**Paper**</a>
-<a href="https://github.com/JayDen20010817/MPF" class="btn btn--second btn--small">**Code**</a> \
-  **Xingjie Zhuang**, Zhixin Li, Fengling Zhou, Canlong Zhang, Huifang Ma\
-  _**Information Fusion**_ (**JCR Q1**, **CAS Zone 1**)
-  
-🔥<font color='#6CBCD0'><b> Multi-Modal Sarcasm Detection via Knowledge-Aware Focused Graph Convolutional Networks </b></font>
-<a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">**Paper**</a>\
-  **Xingjie Zhuang**, Fengling Zhou, Zhixin Li\
-  _**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**_ (**JCR Q1**, **CCF-B**)
-
-🔥<font color='#6CBCD0'><b> DyCR-Net: A dynamic context-aware routing network for multi-modal sarcasm detection in conversation </b></font>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125000772" class="btn btn--primary btn--small">**Paper**</a>\
-  **Xingjie Zhuang**, Zhixin Li, Fengling Zhou, Jingliang Gu, Canlong Zhang, Huifang Ma\
-  _**Knowledge-Based Systems (KBS)**_ (**JCR Q1**, **CAS Zone 1, CCF-C**)
-
-🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
-<a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
-<a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a> \
-  **Xingjie Zhuang**, Zhixin Li, Canlong Zhang, Huifang Ma\
-  _**Engineering Applications of Artificial Intelligence (EAAI)**_ (**JCR Q1**, **CAS Zone 1, CCF-C**)
-  
-🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
-<a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a>\
-  **Xingjie Zhuang**, Fengling Zhou, Zhixin Li \
-   _**ACM International Conference on Information and Knowledge Management (CIKM 2024)**_ (**CCF-B**)
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+  🔥<font color='#6CBCD0'><b> MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection </b></font>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253526003167" class="btn btn--primary btn--small">**Paper**</a>
+  <a href="https://github.com/JayDen20010817/MPF" class="btn btn--second btn--small">**Code**</a> <br>
+  <strong>Xingjie Zhuang</strong>, Zhixin Li, Fengling Zhou, Canlong Zhang, Huifang Ma<br>
+  <em><strong>Information Fusion</strong></em> (<strong>JCR Q1</strong>, <strong>CAS Zone 1</strong>)
+  <br><br>
+  🔥<font color='#6CBCD0'><b> Multi-Modal Sarcasm Detection via Knowledge-Aware Focused Graph Convolutional Networks </b></font>
+  <a href="https://dl.acm.org/doi/10.1145/3722115" class="btn btn--primary btn--small">**Paper**</a><br>
+  <strong>Xingjie Zhuang</strong>, Fengling Zhou, Zhixin Li<br>
+  <em><strong>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</strong></em> (<strong>JCR Q1</strong>, <strong>CCF-B</strong>)
+  <br><br>
+  🔥<font color='#6CBCD0'><b> DyCR-Net: A dynamic context-aware routing network for multi-modal sarcasm detection in conversation </b></font>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125000772" class="btn btn--primary btn--small">**Paper**</a><br>
+  <strong>Xingjie Zhuang</strong>, Zhixin Li, Fengling Zhou, Jingliang Gu, Canlong Zhang, Huifang Ma<br>
+  <em><strong>Knowledge-Based Systems (KBS)</strong></em> (<strong>JCR Q1</strong>, <strong>CAS Zone 1, CCF-C</strong>)
+  <br><br>
+  🔥<font color='#6CBCD0'><b> A Cross-modal Collaborative Guiding Network for Sarcasm Explanation in Multi-modal Multi-party Dialogues </b></font>
+  <a href="https://doi.org/10.1016/j.engappai.2024.109884" class="btn btn--primary btn--small">**Paper**</a>
+  <a href="https://github.com/JayDen20010817/CCG-Net" class="btn btn--second btn--small">**Code**</a><br>
+  <strong>Xingjie Zhuang</strong>, Zhixin Li, Canlong Zhang, Huifang Ma<br>
+  <em><strong>Engineering Applications of Artificial Intelligence (EAAI)</strong></em> (<strong>JCR Q1</strong>, <strong>CAS Zone 1, CCF-C</strong>)
+  <br><br>
+  🔥<font color='#6CBCD0'><b> MV-BART: Multi-view BART for Multi-modal Sarcasm Detection </b></font>
+  <a href="https://dl.acm.org/doi/10.1145/3627673.3679570" class="btn btn--primary btn--small">**Paper**</a><br>
+  <strong>Xingjie Zhuang</strong>, Fengling Zhou, Zhixin Li<br>
+  <em><strong>ACM International Conference on Information and Knowledge Management (CIKM 2024)</strong></em> (<strong>CCF-B</strong>)
+</div>
 
 ## 🎓 Educations
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+  <ul>
+    <li>Xiamen University <font color='red'> 09/2026 - 07/2030 </font> <strong>Phd</strong>, under the supervision of Prof. <a href="https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/">Jinsong Su</a></li>
+    <li>Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> <strong>Master</strong>, under the supervision of Prof. <a href="http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm">Zhixin Li</a></li>
+    <li>Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> <strong>Bachelor</strong></li>
+  </ul>
+</div>
 
-* Xiamen University <font color='red'> 09/2026 - 07/2030 </font> **Phd**, under the supervision of Prof. [Jinsong Su](https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/)
-* Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> **Master**, under the supervision of Prof. [Zhixin Li](http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm)
-* Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** 
-  
 ## 💼 Industrial & Contest Experience
-* LLM Algorithm Intern, **Institute of Intelligent Computing Technology, Suzhou, CAS(IICT)** (Mar.2025 – Sep.2025), under the supervision of Prof. [Xiang Ao](https://aoxaustin.github.io/)
-* System Development & Data Analysis Intern, **Akuvox/STAR-NET** (Apr.2023 – Jul.2023)
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+  <ul>
+    <li>LLM Algorithm Intern, <strong>Institute of Intelligent Computing Technology, Suzhou, CAS(IICT)</strong> (Mar.2025 – Sep.2025), under the supervision of Prof. <a href="https://aoxaustin.github.io/">Xiang Ao</a></li>
+    <li>System Development & Data Analysis Intern, <strong>Akuvox/STAR-NET</strong> (Apr.2023 – Jul.2023)</li>
+  </ul>
+</div>
 
 ## 🏆 Honors and Awards
-* Outstanding Graduate in GXNU
-* National Scholarship,2025
-* Outstanding Graduate Student Scholarship,2025
-* The First Prize Scholarship,2025
-* **1st Prize** China Undergraduate Mathematical Contest in Modelling(CUMCM, Fujian Division),2021
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+  <ul>
+    <li>Outstanding Graduate in GXNU</li>
+    <li>National Scholarship, 2025</li>
+    <li>Outstanding Graduate Student Scholarship, 2025</li>
+    <li>The First Prize Scholarship, 2025</li>
+    <li><strong>1st Prize</strong> China Undergraduate Mathematical Contest in Modelling (CUMCM, Fujian Division), 2021</li>
+  </ul>
+</div>
 
 ## ⚡ Academic Services/Reviewer
-<div style="font-size: 0.8em; font-style: italic; color: #666; margin-left: 10px;">
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 14px; font-style: italic; color: #666; margin-left: 10px;">
   <ul style="margin-top: 5px; padding-left: 20px;">
-    <li>ACM International Conference on Information and Knowledge Management(CIKM) </li>
-    <li>IEEE International Conference on Multimedia & Expo(ICME) </li>
-    <li>IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP) </li>
-    <li>Knowledge-based Systems </li>
-    <li>Knowledge and Information Systems </li>
-    <li>Neurocomputing </li>
-    <li>International Journal of Machine Learning and Cybernetics </li>
-    <li>Multimedia Systems </li>
-    <li>Journal of Intelligent Information Systems </li>
-
+    <li>ACM International Conference on Information and Knowledge Management (CIKM)</li>
+    <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
+    <li>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</li>
+    <li>Knowledge-based Systems</li>
+    <li>Knowledge and Information Systems</li>
+    <li>Neurocomputing</li>
+    <li>International Journal of Machine Learning and Cybernetics</li>
+    <li>Multimedia Systems</li>
+    <li>Journal of Intelligent Information Systems</li>
   </ul>
 </div>
 

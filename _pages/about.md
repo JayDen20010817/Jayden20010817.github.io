@@ -156,7 +156,7 @@ Emails: jayden20010817@163.com | zhuangxingjie617@gmail.com
 
 ## 🎓 Educations
 
-* Xiamen University <font color='red'> 09/2026 - 07/2030 </font> **Master**, under the supervision of Prof. [Jinsong Su](https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/)
+* Xiamen University <font color='red'> 09/2026 - 07/2030 </font> **Phd**, under the supervision of Prof. [Jinsong Su](https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/)
 * Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> **Master**, under the supervision of Prof. [Zhixin Li](http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm)
 * Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> **Bachelor** 
   

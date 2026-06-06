@@ -158,7 +158,7 @@ body, html {
 ## 🎓 Educations
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
   <ul>
-    <li>Xiamen University <font color='red'> 09/2026 - 07/2030 </font> <strong>Phd</strong>, under the supervision of Prof. <a href="https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/">Jinsong Su</a></li>
+    <li>Xiamen University <font color='red'> 09/2026 - 07/2030(expected) </font> <strong>Phd</strong>, under the supervision of Prof. <a href="https://xmudeeplit.github.io/author/%E8%8B%8F%E5%8A%B2%E6%9D%BE/">Jinsong Su</a></li>
     <li>Guangxi Normal University <font color='red'> 09/2023 - 07/2026 </font> <strong>Master</strong>, under the supervision of Prof. <a href="http://www.cs.gxnu.edu.cn/2019/0302/c4860a143385/page.htm">Zhixin Li</a></li>
     <li>Fujian Jiangxia University <font color='red'> 09/2019 - 07/2023 </font> <strong>Bachelor</strong></li>
   </ul>

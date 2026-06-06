@@ -193,9 +193,6 @@ body, html {
     <li>Knowledge-based Systems</li>
     <li>Knowledge and Information Systems</li>
     <li>Neurocomputing</li>
-    <li>International Journal of Machine Learning and Cybernetics</li>
-    <li>Multimedia Systems</li>
-    <li>Journal of Intelligent Information Systems</li>
   </ul>
 </div>
 

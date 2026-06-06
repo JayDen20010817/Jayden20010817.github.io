@@ -189,6 +189,7 @@ body, html {
     <li>ACM International Conference on Information and Knowledge Management (CIKM)</li>
     <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
     <li>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</li>
+    <li>Pattern Recognition</li>
     <li>Knowledge-based Systems</li>
     <li>Knowledge and Information Systems</li>
     <li>Neurocomputing</li>

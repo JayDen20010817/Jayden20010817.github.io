@@ -191,6 +191,7 @@ body, html {
     <li>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</li>
     <li>Pattern Recognition</li>
     <li>Knowledge-based Systems</li>
+    <li>Expert Systems With Applications</li>
     <li>Knowledge and Information Systems</li>
     <li>Neurocomputing</li>
   </ul>

@@ -186,6 +186,7 @@ body, html {
 ## ⚡ Academic Services/Reviewer
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14px; font-style: italic; color: #666; margin-left: 10px;">
   <ul style="margin-top: 5px; padding-left: 20px;">
+    <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
     <li>ACM International Conference on Information and Knowledge Management (CIKM)</li>
     <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
     <li>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</li>
@@ -193,7 +194,6 @@ body, html {
     <li>Knowledge-based Systems</li>
     <li>Expert Systems With Applications</li>
     <li>Knowledge and Information Systems</li>
-    <li>Neurocomputing</li>
   </ul>
 </div>
 
